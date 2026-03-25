@@ -17,3 +17,9 @@ logs/
 Thumbs.db
 *.jpg
 *.jpeg
+*.png
+*.csv
+
+TrainingData/Images/
+TrainingData/trainer.yml
+FACE RECOGNITION/JEFF BEZOS IMGS/
