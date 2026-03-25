@@ -1,0 +1,17 @@
+data/known_faces/*
+data/unknown_faces/*
+!data/known_faces/.gitkeep
+!data/unknown_faces/.gitkeep
+data/*.sqlite
+models/*.dat
+__pycache__/
+*.pyc
+*.pyo
+.env
+venv/
+.venv/
+*.egg-info/
+logs/
+*.log
+.DS_Store
+Thumbs.db
