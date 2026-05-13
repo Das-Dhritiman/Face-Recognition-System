@@ -1,4 +1,4 @@
-# Face Recognition System
+# BiometricGate
 
 A desktop face recognition and attendance app built with Python, Tkinter, and OpenCV.
 
